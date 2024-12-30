@@ -3,7 +3,8 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #fc1e8a;
+    background-image: url(https://media.slidesgo.com/storage/25614983/conversions/0-memory-game-thumb.jpg);
+    background-size: cover;
     user-select: none;
 }
 .container{
